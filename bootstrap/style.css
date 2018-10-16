@@ -21,17 +21,13 @@ article {
     font-size: 1.2em;
 }
 
-figure {
-    box-shadow: 2px 2px 2px 2px grey;
-}
-
 figure img {
     height: 300px;
     width: 100%;
 }
 
 figcaption {
-    margin-right: 5%;
+    margin-right: 7%;
     margin-left: 5%;
     margin-top: 5%;
     padding-bottom: 4%;
@@ -40,8 +36,4 @@ figcaption {
 figcaption h2 {
     font-size: 1.5em;
     font-weight: bold;
-}
-
-nav a {
-    padding-right: 20px;
 }
