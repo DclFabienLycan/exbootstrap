@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Roboto";
+}
+
+article {
+    padding-top: 2%;
+}
+
+.container-fluid {
+    padding-right: 10%;
+    padding-left: 10%;
+    background-color: white;
+}
+
+.container a {
+    font-size: 1.2em;
+}
+
+figure {
+    box-shadow: 2px 2px 2px 2px grey;
+}
+
+figure img {
+    height: 300px;
+    width: 100%;
+}
+
+figcaption {
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding-bottom: 4%;
+}
+
+figcaption h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+nav a {
+    padding-right: 20px;
+}
